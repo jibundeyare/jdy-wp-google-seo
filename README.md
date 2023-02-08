@@ -29,4 +29,5 @@ This plugin is licensed under the MIT License.
 - https://developer.wordpress.org/reference/functions/register_setting/
 - https://developer.wordpress.org/reference/functions/get_option/
 - https://developer.wordpress.org/reference/hooks/plugin_action_links_plugin_file/
+- https://developer.wordpress.org/reference/functions/add_options_page/
 
